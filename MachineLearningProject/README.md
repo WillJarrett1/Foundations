@@ -16,3 +16,6 @@ I aggregated all the comments on each post and then fed them into the TfidfVecto
 The top twenty words here include "administration", "wrong", "greedy", "despicable", "voters", "traitors", "police", "tax break", and "democracy". Again, it seems that political issues are the biggest predictor of an angry reaction to news. But this time around, every feature has a higher uncertainty than weight. I think a larger sample size is needed to prove that this pattern holds more generally.
 
 NOTE: Source files seemed to be too big to commit via Github Desktop.
+
+### UPDATE 14/04/2021
+Jupyter notebook now includes classifications of angry comments/posts from MSNBC and Fox News, to see what kind of news makes people react angrily from different sides of the political spectrum.
